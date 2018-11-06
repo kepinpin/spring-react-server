@@ -1,3 +1,10 @@
 /node_modules/
 /target/
 /src/resources/static/build/
+.classpath
+.factorypath
+/.mvn/
+.project
+/.settings/
+package-lock.json
+/testing/built/
